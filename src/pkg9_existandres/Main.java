@@ -27,6 +27,8 @@ public class Main {
             e.printStackTrace();
         }
         
+        System.out.println("CAMBIOS PROBANDO EL COMMIT");
+        
         do {
             System.out.println("Escoger opción a realizar:"
                     + "\n[1] Crear la colección GIMNASIO"
